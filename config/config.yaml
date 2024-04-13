@@ -1,0 +1,36 @@
+# onnxPath: ./models/onnx/traffic_vehicle.onnx
+onnxPath: ./models/onnx/mobilenet_v3_small.onnx
+# onnxPath: ./models/onnx/resnet50.onnx
+
+logging:
+  level: 4          # FATAL:0  ERROR:1   WARN:2  INFO:3  VERB:4  DEBUG:5
+
+model_params:
+  image:
+    - 224
+    - 224
+    - 3
+  num_cls: 1000
+  task: 0            # CLASSIFICATION:0  DETECTION:1  SEGMENTATION:2  MULTITASK:3
+  device: 1          # CPU:0  GPU:1
+  precision: 0       # FP32:0 FP16:1  INT8:2
+  # calibration_list: ./calibration/calibration_list_traffic.txt
+  # calibration_table: ./calibration/calibration_table_traffic.txt
+  calibration_list: ./calibration/calibration_list_imagenet.txt
+  calibration_table: ./calibration/calibration_table_imagenet.txt
+  calibration_batchsize: 64
+
+images_path:
+  - ./data/source/cat.png
+  - ./data/source/fox.png
+  - ./data/source/eagle.png
+  - ./data/source/tiny-cat.png
+  - ./data/source/wolf.png
+  # - ./data/source/33.jpg
+  # - ./data/source/40.jpg
+  # - ./data/source/47.jpg
+  # - ./data/source/52.jpg
+  # - ./data/source/52.jpg
+  # - ./data/source/135.jpg
+  # - ./data/source/145.jpg
+  # - ./data/source/147.jpg

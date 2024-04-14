@@ -138,12 +138,10 @@ bool Classifier::postprocess_cpu() {
     ImageNetLabels labels;              //->分类出对应标签
     int pos = max_element((float*)m_outputMemoryHost, (float*)m_outputMemoryHost + m_params->num_cls) - (float*)m_outputMemoryHost;
     std::vector<float> result(m_params->num_cls);          //->创建vector用来保存模型输出的结果
-    //result.reserve(m_params->num_cls);  //->分配对应类别数量的空间
     memcpy(result.data(), m_outputMemoryHost, output_size); //->数据拷贝
    
     std::vector<float> result_softmax = softmax(result);
     float confidence = result_softmax[pos] * 100;
-    // float confidence = ((float*)m_outputMemoryHost)[pos] * 100;
 
     m_timer->stop_cpu();                //->CPU测速结束
     m_timer->duration_cpu<timer::Timer::ms>("postprocess(CPU)");

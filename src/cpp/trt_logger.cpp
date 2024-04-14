@@ -36,11 +36,6 @@ Level Logger::get_level(Severity severity) {
 }
 
 void Logger::log (Severity severity, const char* msg) noexcept{
-    /* 
-        有的时候TensorRT给出的log会比较多并且比较细，所以我们选择将TensorRT的打印log的级别稍微约束一下
-        - TensorRT的log级别如果是FATAL, ERROR, WARNING, 按照正常方式打印
-        - TensorRT的log级别如果是INFO或者是VERBOSE的时候，只有当logger的level在大于VERBOSE的时候再打出
-    */
     if (severity <= get_severity(Level::WARN)
         || m_level >= Level::DEBUG)
         __log_info(get_level(severity), "%s", msg);
@@ -78,4 +73,4 @@ shared_ptr<Logger> create_logger(Level level) {
     return make_shared<Logger>(level);
 }
 
-} // namespace logger
+} //->namespace logger

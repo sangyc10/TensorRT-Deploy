@@ -53,6 +53,6 @@ void Timer::duration_cpu(std::string msg){
     LOGV("%-60s uses %.6lf %s", msg.c_str(), time.count(), str.c_str());
 }
 
-} // namespace timer
+} //->namespace timer
 
-#endif //__TIMER_HPP__
+#endif //->__TIMER_HPP__

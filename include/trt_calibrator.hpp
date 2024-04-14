@@ -8,8 +8,8 @@
 
 namespace model{
 /*
- * 自定义一个calibrator类
- * 我们在创建calibrator的时候需要继承nvinfer1中的calibrator类
+ * 自定义calibrator类
+ * 创建calibrator的时候需要继承nvinfer1中的calibrator类
  * TensorRT提供了五种Calibrator类
  *
  *   - nvinfer1::IInt8EntropyCalibrator2
@@ -17,8 +17,7 @@ namespace model{
  *   - nvinfer1::IInt8EntropyCalibrator
  *   - nvinfer1::IInt8LegacyCalibrator
  *   - nvinfer1::IInt8Calibrator
- * 具体有什么不同，建议读一下官方文档和回顾一下之前的学习资料
- *
+ * 
  * 默认下推荐使用IInt8EntropyCalibrator2
 */
 

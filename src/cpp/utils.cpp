@@ -24,12 +24,10 @@ bool fileRead(const string &path, vector<unsigned char> &data, size_t &size){
     stringstream trtModelStream;
     ifstream cache(path);
 
-    /* 将engine的内容写入trtModelStream中*/
     trtModelStream.seekg(0, trtModelStream.beg);
     trtModelStream << cache.rdbuf();
     cache.close();
 
-    /* 计算model的大小*/
     trtModelStream.seekg(0, ios::end);
     size = trtModelStream.tellg();
 
@@ -37,7 +35,6 @@ bool fileRead(const string &path, vector<unsigned char> &data, size_t &size){
     trtModelStream.seekg(0, ios::beg);
     tmp.resize(size);
 
-    /* 将trtModelStream中的stream通过read函数写入modelMem中*/
     trtModelStream.read((char*)data[0], size);
     return true;
 }

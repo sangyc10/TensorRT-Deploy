@@ -45,10 +45,10 @@ void Timer::duration_gpu(std::string msg){
     CUDA_CHECK(cudaEventSynchronize(_gStop));
     cudaEventElapsedTime(&_timeElasped, _gStart, _gStop);
 
-    // cudaDeviceSynchronize();
-    // LAST_KERNEL_CHECK();
+    //->cudaDeviceSynchronize();
+    //->LAST_KERNEL_CHECK();
 
     LOGV("%-60s uses %.6lf ms", msg.c_str(), _timeElasped);
 }
 
-} //namespace model
+} //->namespace model

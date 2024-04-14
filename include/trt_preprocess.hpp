@@ -61,7 +61,6 @@ struct AffineMatrix{
     }
 };
 
-// 对结构体设置default instance
 extern  TransInfo    trans;
 extern  AffineMatrix affine_matrix;
 
@@ -74,7 +73,7 @@ void    resize_bilinear_gpu(float* d_tar, uint8_t* d_src, int tarW, int tarH, in
 
 __host__ __device__ void affine_transformation(float* trans_matrix, int src_x, int src_y, float* tar_x, float* tar_y);
 
-};  // namespace preprocess
+};  //->namespace preprocess
 
 
-#endif //__PREPROCESS_HPP__
+#endif //->__PREPROCESS_HPP__

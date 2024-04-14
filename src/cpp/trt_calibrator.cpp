@@ -47,14 +47,7 @@ bool Int8EntropyCalibrator::getBatch(
         return false;
 
     LOG("%3d/%3d (%3dx%3d): %s", m_imageIndex + 1, m_imageList.size(), m_inputH, m_inputW, m_imageList.at(m_imageIndex).c_str());
-    
-    /*
-     * 对一个batch里的所有图像进行预处理
-     * 这里可有以及个扩展的点
-     *  1. 可以把这个部分做成函数，以函数指针的方式传给calibrator。因为不同的task会有不同的预处理
-     *  2. 可以实现一个bacthed preprocess
-     * 这里留给当作今后的TODO
-     */
+
     cv::Mat input_image;
     if (m_task_type == 1) {
         for (int i = 0; i < m_batchSize; i++) {             //->处理batch中所有的图片
@@ -84,11 +77,6 @@ bool Int8EntropyCalibrator::getBatch(
     return true;
 }
     
-/* 
- * 读取calibration table的信息来创建INT8的推理引擎, 
- * 将calibration table的信息存储到calibration cache，这样可以防止每次创建int推理引擎的时候都需要跑一次calibration
- * 如果没有calibration table的话就会直接跳过这一步，之后调用writeCalibrationCache来创建calibration table
- */
 const void* Int8EntropyCalibrator::readCalibrationCache(size_t& length) noexcept
 {
     void* output;
@@ -110,9 +98,6 @@ const void* Int8EntropyCalibrator::readCalibrationCache(size_t& length) noexcept
     return output;
 }
 
-/* 
- * 将calibration cache的信息写入到calibration table中
-*/
 void Int8EntropyCalibrator::writeCalibrationCache(const void* cache, size_t length) noexcept
 {
     ofstream output(m_calibrationTablePath, ios::binary);
@@ -120,4 +105,4 @@ void Int8EntropyCalibrator::writeCalibrationCache(const void* cache, size_t leng
     output.close();
 }
 
-} // namespace model
+} //->namespace model

@@ -44,13 +44,6 @@ float iou_calc(bbox bbox1, bbox bbox2){             //->计算两个检测框的
 
 
 void Detector::setup(void const* data, size_t size) {
-   /*
-     * detector setup需要做的事情
-     *   创建engine, context
-     *   设置bindings。这里需要注意，不同版本的yolo的输出binding可能还不一样
-     *   分配memory空间。这里需要注意，不同版本的yolo的输出所需要的空间也还不一样
-     */
-
     m_runtime   = shared_ptr<IRuntime>(createInferRuntime(*m_logger), destroy_trt_ptr<IRuntime>);
     m_engine    = shared_ptr<ICudaEngine>(m_runtime->deserializeCudaEngine(data, size), destroy_trt_ptr<ICudaEngine>);
     m_context   = shared_ptr<IExecutionContext>(m_engine->createExecutionContext(), destroy_trt_ptr<IExecutionContext>);

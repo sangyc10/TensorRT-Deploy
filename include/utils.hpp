@@ -43,4 +43,4 @@ std::string changePath(std::string onnxPath, std::string relativePath, std::stri
 std::vector<unsigned char> loadFile(const std::string &path);
 std::vector<std::string>   loadDataList(const std::string &path);
 
-#endif //__UTILS_HPP__
+#endif //->__UTILS_HPP__

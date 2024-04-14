@@ -13,7 +13,7 @@ model_params:
   num_cls: 1000
   task: 0            # CLASSIFICATION:0  DETECTION:1  SEGMENTATION:2  MULTITASK:3
   device: 1          # CPU:0  GPU:1
-  precision: 0       # FP32:0 FP16:1  INT8:2
+  precision: 2       # FP32:0 FP16:1  INT8:2
   # calibration_list: ./calibration/calibration_list_traffic.txt
   # calibration_table: ./calibration/calibration_table_traffic.txt
   calibration_list: ./calibration/calibration_list_imagenet.txt

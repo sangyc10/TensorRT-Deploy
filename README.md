@@ -1,3 +1,10 @@
+环境：
+
+1. Ubuntu 22.04
+2. CUDA 11.7
+3. cuDNN 8.6.0
+4. TensorRT 8.5.1.7
+
 # 一、TensorTR部署YoloV5 –交通检测项目
 
 ## 1、下载YOLOV5
@@ -18,6 +25,10 @@ pip3 install -r requirements.txt
 # 根据官方文档，安装ultralytics
 pip3 install ultralytics
 ```
+
+项目提供了requirements.txt文件，这里是我使用的python3环境。
+
+
 
 下载原YOLOV5预训练权重：
 

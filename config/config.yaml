@@ -1,9 +1,9 @@
 # onnxPath: ./models/onnx/traffic_vehicle.onnx
-onnxPath: ./models/onnx/mobilenet_v3_small.onnx
-# onnxPath: ./models/onnx/resnet50.onnx
+# onnxPath: ./models/onnx/mobilenet_v3_small.onnx
+onnxPath: ./models/onnx/vgg11.onnx
 
 logging:
-  level: 4          # FATAL:0  ERROR:1   WARN:2  INFO:3  VERB:4  DEBUG:5
+  level: 5          # FATAL:0  ERROR:1   WARN:2  INFO:3  VERB:4  DEBUG:5
 
 model_params:
   image:

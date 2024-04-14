@@ -1,600 +1,600 @@
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_534.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_290.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/47.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (528).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/06.jpeg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(150).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_807.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/98.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/88.JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 326.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_226.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (456).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Asraf_33.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_149.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(489).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_626.JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 270.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_29.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_718.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_762.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(348).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_289.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_631.JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (51).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(98).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/89.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 265.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_176.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_471.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (42).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 98.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_135.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_282.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (186).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (417).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Asraf_34.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_116.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_  (5).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 242.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (365).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_418.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_722.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_852.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/201.png
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_842.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_374.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_28.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_457.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/92.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_  (22).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_30.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_384.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(384).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 52.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_231.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_243.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(164).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_749.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(151).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_472.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(131).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/93.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(102).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/223.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (497).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (480).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (516).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/115.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_800.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(484).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_608.JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_650.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(294).JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 97.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (324).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_28.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Asraf_40.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_655.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_701.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_528.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_117.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (363).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_534.JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (31).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_530.JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_743.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_74.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_712.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(499).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (81).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(305).JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (78).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 148.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 152.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_227.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(126).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_699.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(470).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/169.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(269).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 48.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_691.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_427.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (106).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_78.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_476.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (266).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_  (21).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(371).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_673.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_239.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(254).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_441.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_578.JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_80.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (115).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_177.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_583.JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/188.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (159).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_612.JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_298.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(92).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 173.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/08.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(142).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_791.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(438).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(319).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_99.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_739.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_388.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_679.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_338.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(480).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(437).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_795.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_437.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_467.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_296.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (215).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (254).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_662.JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (389).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 176.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(491).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 319.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(74).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_757.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 282.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(77).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 191.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (392).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 269.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_271.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_458.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 274.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_550.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 118.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_235.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/64.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 93.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(390).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_635.JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 307.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (460).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_647.JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_487.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_538.JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_167.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_222.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_292.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_819.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_540.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(214).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_536.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/130.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_47.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(451).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_599.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (519).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_382.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_124.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_727.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(196).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(446).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_776.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_419.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 85.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_658.JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(108).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_492.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(393).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_  208.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 159.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(375).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(498).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_414.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/145.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(475).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_510.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(235).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/76.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_557.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(252).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_624.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(355).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_574.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (367).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_573.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (212).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (318).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_488.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(191).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_728.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (110).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/205.png
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (383).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_643.JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_06.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(493).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_  (9).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/68.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_21.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(209).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_373.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_688.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_  (20).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_233.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_682.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_663.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_220.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/112.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/147.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_119.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (308).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_611.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/126.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_107.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_429.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (328).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (499).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_  202.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(172).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_561.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_29.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_335.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Asraf_41.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_826.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_725.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/157.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_  (3).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_435.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_37.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_193.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_50.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (485).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/220.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_836.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (333).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Asraf_63.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(136).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(293).JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_812.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_784.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_670.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_483.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(258).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(123).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_593.JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_72.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_192.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_186.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_399.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_370.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_26.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/133.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_782.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (524).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/187.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(36).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 86.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 327.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_620.JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_760.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/33.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_591.JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_515.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (451).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/219.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (208).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(88).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Asraf_27.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_207.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_281.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_765.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (131).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/180.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 46.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(160).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(389).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_354.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_122.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(143).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_400.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_798.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 42.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_827.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_460.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (343).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_504.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (317).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_622.JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_585.JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_153.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_518.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/129.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (22).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_542.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_408.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(83).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_437.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 317.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 316.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_32.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(75).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/177.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/74.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(171).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_478.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(232).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(312).JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(233).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/195.png
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_86.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Asraf_17.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/52.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_485.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (9).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (529).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_769.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_13.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_508.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_420.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Asraf_09.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_321.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_522.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_141.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(213).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_582.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/09.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_266.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/154.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (82).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_446.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(362).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_90.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (358).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(68).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Asraf_32.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_651.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_171.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 68.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_642.JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_672.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (422).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (291).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (155).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (469).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/166.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/40.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Asraf_36.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (77).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_17.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(248).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_524.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_390.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (388).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_11.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (332).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 200.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_841.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_561.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_500.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_599.JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(415).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (188).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(296).JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/135.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Asraf_11.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(44).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (345).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (170).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (32).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_594.JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (282).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_850.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(182).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_788.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_548.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_174.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_583.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (35).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_565.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_396.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(247).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_678.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(449).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_742.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_355.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_721.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_729.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_689.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_803.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_120.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_606.JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_311.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_805.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_792.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_349.JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_113.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(218).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_377.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_241.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/183.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/124.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(414).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_794.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_  (19).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/43.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (348).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_191.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_473.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_73.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(279).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (97).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(264).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_672.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_49.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_409.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_522.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_26.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_350.JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Asraf_06.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/34.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/161.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (387).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_601.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_695.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/178.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_718.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_552.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_855.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_467.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(275).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_724.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 248.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_715.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_752.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_425.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_65.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_157.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_592.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (56).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_142.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 266.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_188.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(316).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/12.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(314).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (505).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(495).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_648.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/218.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_456.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(121).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_697.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (68).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_785.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (246).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(388).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(104).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 75.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_525.JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_535.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_733.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_783.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_62.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_651.JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/149.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_114.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_511.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_781.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (446).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(368).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_475.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (300).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(385).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (72).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/103.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_23.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_364.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_720.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_462.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_778.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_412.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(250).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_  206.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/207.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(482).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_52.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(485).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Asraf_35.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(459).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_357.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/18.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (398).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(107).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_445.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_403.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_189.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_201.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_254.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_722.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_127.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_371.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_170.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(408).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_42.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(169).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_703.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_762.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(224).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(430).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_95.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (248).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(193).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/100.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_34.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(478).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_498.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_286.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (30).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (261).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_763.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(391).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_30.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_661.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_  215.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 243.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (39).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_405.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (91).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (222).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_152.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_676.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(240).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_262.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_491.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_451.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_210.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_775.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_490.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(56).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_693.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_306.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_480.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(465).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 315.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_439.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_708.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_410.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_202.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_346.JPG
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_680.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(112).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(448).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 247.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 252.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_184.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 161.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 135.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 334.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(43).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_ 296.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_647.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(283).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(119).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(323).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Navid_465.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(501).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Asraf_24.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(387).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Pias (197).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_398.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_449.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_453.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Numan_(153).jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/60.jpg
-/home/sang/hostworkspace/Course/tensorrtYoloV5/datasets/traffic_vehicle/images/val/Dipto_701.jpg
+../datasets/traffic_vehicle/images/val/Navid_534.jpg
+../datasets/traffic_vehicle/images/val/Dipto_290.jpg
+../datasets/traffic_vehicle/images/val/47.jpg
+../datasets/traffic_vehicle/images/val/Pias (528).jpg
+../datasets/traffic_vehicle/images/val/06.jpeg
+../datasets/traffic_vehicle/images/val/Numan_(150).jpg
+../datasets/traffic_vehicle/images/val/Dipto_807.jpg
+../datasets/traffic_vehicle/images/val/98.jpg
+../datasets/traffic_vehicle/images/val/88.JPG
+../datasets/traffic_vehicle/images/val/Dipto_ 326.jpg
+../datasets/traffic_vehicle/images/val/Navid_226.jpg
+../datasets/traffic_vehicle/images/val/Pias (456).jpg
+../datasets/traffic_vehicle/images/val/Asraf_33.jpg
+../datasets/traffic_vehicle/images/val/Navid_149.jpg
+../datasets/traffic_vehicle/images/val/Numan_(489).jpg
+../datasets/traffic_vehicle/images/val/Navid_626.JPG
+../datasets/traffic_vehicle/images/val/Dipto_ 270.jpg
+../datasets/traffic_vehicle/images/val/Navid_29.jpg
+../datasets/traffic_vehicle/images/val/Navid_718.jpg
+../datasets/traffic_vehicle/images/val/Dipto_762.jpg
+../datasets/traffic_vehicle/images/val/Numan_(348).jpg
+../datasets/traffic_vehicle/images/val/Navid_289.jpg
+../datasets/traffic_vehicle/images/val/Navid_631.JPG
+../datasets/traffic_vehicle/images/val/Pias (51).jpg
+../datasets/traffic_vehicle/images/val/Numan_(98).jpg
+../datasets/traffic_vehicle/images/val/89.jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 265.jpg
+../datasets/traffic_vehicle/images/val/Navid_176.jpg
+../datasets/traffic_vehicle/images/val/Dipto_471.jpg
+../datasets/traffic_vehicle/images/val/Pias (42).jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 98.jpg
+../datasets/traffic_vehicle/images/val/Navid_135.jpg
+../datasets/traffic_vehicle/images/val/Navid_282.jpg
+../datasets/traffic_vehicle/images/val/Pias (186).jpg
+../datasets/traffic_vehicle/images/val/Pias (417).jpg
+../datasets/traffic_vehicle/images/val/Asraf_34.jpg
+../datasets/traffic_vehicle/images/val/Navid_116.jpg
+../datasets/traffic_vehicle/images/val/Numan_  (5).jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 242.jpg
+../datasets/traffic_vehicle/images/val/Pias (365).jpg
+../datasets/traffic_vehicle/images/val/Navid_418.jpg
+../datasets/traffic_vehicle/images/val/Dipto_722.jpg
+../datasets/traffic_vehicle/images/val/Dipto_852.jpg
+../datasets/traffic_vehicle/images/val/201.png
+../datasets/traffic_vehicle/images/val/Dipto_842.jpg
+../datasets/traffic_vehicle/images/val/Dipto_374.jpg
+../datasets/traffic_vehicle/images/val/Dipto_28.jpg
+../datasets/traffic_vehicle/images/val/Dipto_457.jpg
+../datasets/traffic_vehicle/images/val/92.jpg
+../datasets/traffic_vehicle/images/val/Numan_  (22).jpg
+../datasets/traffic_vehicle/images/val/Dipto_30.jpg
+../datasets/traffic_vehicle/images/val/Navid_384.jpg
+../datasets/traffic_vehicle/images/val/Numan_(384).jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 52.jpg
+../datasets/traffic_vehicle/images/val/Navid_231.jpg
+../datasets/traffic_vehicle/images/val/Navid_243.jpg
+../datasets/traffic_vehicle/images/val/Numan_(164).jpg
+../datasets/traffic_vehicle/images/val/Navid_749.jpg
+../datasets/traffic_vehicle/images/val/Numan_(151).jpg
+../datasets/traffic_vehicle/images/val/Dipto_472.jpg
+../datasets/traffic_vehicle/images/val/Numan_(131).jpg
+../datasets/traffic_vehicle/images/val/93.jpg
+../datasets/traffic_vehicle/images/val/Numan_(102).jpg
+../datasets/traffic_vehicle/images/val/223.jpg
+../datasets/traffic_vehicle/images/val/Pias (497).jpg
+../datasets/traffic_vehicle/images/val/Pias (480).jpg
+../datasets/traffic_vehicle/images/val/Pias (516).jpg
+../datasets/traffic_vehicle/images/val/115.jpg
+../datasets/traffic_vehicle/images/val/Dipto_800.jpg
+../datasets/traffic_vehicle/images/val/Numan_(484).jpg
+../datasets/traffic_vehicle/images/val/Navid_608.JPG
+../datasets/traffic_vehicle/images/val/Dipto_650.jpg
+../datasets/traffic_vehicle/images/val/Numan_(294).JPG
+../datasets/traffic_vehicle/images/val/Dipto_ 97.jpg
+../datasets/traffic_vehicle/images/val/Pias (324).jpg
+../datasets/traffic_vehicle/images/val/Navid_28.jpg
+../datasets/traffic_vehicle/images/val/Asraf_40.jpg
+../datasets/traffic_vehicle/images/val/Dipto_655.jpg
+../datasets/traffic_vehicle/images/val/Navid_701.jpg
+../datasets/traffic_vehicle/images/val/Navid_528.jpg
+../datasets/traffic_vehicle/images/val/Navid_117.jpg
+../datasets/traffic_vehicle/images/val/Pias (363).jpg
+../datasets/traffic_vehicle/images/val/Dipto_534.JPG
+../datasets/traffic_vehicle/images/val/Pias (31).jpg
+../datasets/traffic_vehicle/images/val/Dipto_530.JPG
+../datasets/traffic_vehicle/images/val/Navid_743.jpg
+../datasets/traffic_vehicle/images/val/Navid_74.jpg
+../datasets/traffic_vehicle/images/val/Navid_712.jpg
+../datasets/traffic_vehicle/images/val/Numan_(499).jpg
+../datasets/traffic_vehicle/images/val/Pias (81).jpg
+../datasets/traffic_vehicle/images/val/Numan_(305).JPG
+../datasets/traffic_vehicle/images/val/Pias (78).jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 148.jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 152.jpg
+../datasets/traffic_vehicle/images/val/Navid_227.jpg
+../datasets/traffic_vehicle/images/val/Numan_(126).jpg
+../datasets/traffic_vehicle/images/val/Navid_699.jpg
+../datasets/traffic_vehicle/images/val/Numan_(470).jpg
+../datasets/traffic_vehicle/images/val/169.jpg
+../datasets/traffic_vehicle/images/val/Numan_(269).jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 48.jpg
+../datasets/traffic_vehicle/images/val/Navid_691.jpg
+../datasets/traffic_vehicle/images/val/Navid_427.jpg
+../datasets/traffic_vehicle/images/val/Pias (106).jpg
+../datasets/traffic_vehicle/images/val/Navid_78.jpg
+../datasets/traffic_vehicle/images/val/Dipto_476.jpg
+../datasets/traffic_vehicle/images/val/Pias (266).jpg
+../datasets/traffic_vehicle/images/val/Numan_  (21).jpg
+../datasets/traffic_vehicle/images/val/Numan_(371).jpg
+../datasets/traffic_vehicle/images/val/Navid_673.jpg
+../datasets/traffic_vehicle/images/val/Navid_239.jpg
+../datasets/traffic_vehicle/images/val/Numan_(254).jpg
+../datasets/traffic_vehicle/images/val/Dipto_441.jpg
+../datasets/traffic_vehicle/images/val/Navid_578.JPG
+../datasets/traffic_vehicle/images/val/Navid_80.jpg
+../datasets/traffic_vehicle/images/val/Pias (115).jpg
+../datasets/traffic_vehicle/images/val/Navid_177.jpg
+../datasets/traffic_vehicle/images/val/Navid_583.JPG
+../datasets/traffic_vehicle/images/val/188.jpg
+../datasets/traffic_vehicle/images/val/Pias (159).jpg
+../datasets/traffic_vehicle/images/val/Navid_612.JPG
+../datasets/traffic_vehicle/images/val/Navid_298.jpg
+../datasets/traffic_vehicle/images/val/Numan_(92).jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 173.jpg
+../datasets/traffic_vehicle/images/val/08.jpg
+../datasets/traffic_vehicle/images/val/Numan_(142).jpg
+../datasets/traffic_vehicle/images/val/Dipto_791.jpg
+../datasets/traffic_vehicle/images/val/Numan_(438).jpg
+../datasets/traffic_vehicle/images/val/Numan_(319).jpg
+../datasets/traffic_vehicle/images/val/Navid_99.jpg
+../datasets/traffic_vehicle/images/val/Navid_739.jpg
+../datasets/traffic_vehicle/images/val/Dipto_388.jpg
+../datasets/traffic_vehicle/images/val/Dipto_679.jpg
+../datasets/traffic_vehicle/images/val/Navid_338.jpg
+../datasets/traffic_vehicle/images/val/Numan_(480).jpg
+../datasets/traffic_vehicle/images/val/Numan_(437).jpg
+../datasets/traffic_vehicle/images/val/Navid_795.jpg
+../datasets/traffic_vehicle/images/val/Navid_437.jpg
+../datasets/traffic_vehicle/images/val/Dipto_467.jpg
+../datasets/traffic_vehicle/images/val/Navid_296.jpg
+../datasets/traffic_vehicle/images/val/Pias (215).jpg
+../datasets/traffic_vehicle/images/val/Pias (254).jpg
+../datasets/traffic_vehicle/images/val/Navid_662.JPG
+../datasets/traffic_vehicle/images/val/Pias (389).jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 176.jpg
+../datasets/traffic_vehicle/images/val/Numan_(491).jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 319.jpg
+../datasets/traffic_vehicle/images/val/Numan_(74).jpg
+../datasets/traffic_vehicle/images/val/Navid_757.jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 282.jpg
+../datasets/traffic_vehicle/images/val/Numan_(77).jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 191.jpg
+../datasets/traffic_vehicle/images/val/Pias (392).jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 269.jpg
+../datasets/traffic_vehicle/images/val/Navid_271.jpg
+../datasets/traffic_vehicle/images/val/Navid_458.jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 274.jpg
+../datasets/traffic_vehicle/images/val/Dipto_550.jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 118.jpg
+../datasets/traffic_vehicle/images/val/Navid_235.jpg
+../datasets/traffic_vehicle/images/val/64.jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 93.jpg
+../datasets/traffic_vehicle/images/val/Numan_(390).jpg
+../datasets/traffic_vehicle/images/val/Navid_635.JPG
+../datasets/traffic_vehicle/images/val/Dipto_ 307.jpg
+../datasets/traffic_vehicle/images/val/Pias (460).jpg
+../datasets/traffic_vehicle/images/val/Navid_647.JPG
+../datasets/traffic_vehicle/images/val/Dipto_487.jpg
+../datasets/traffic_vehicle/images/val/Dipto_538.JPG
+../datasets/traffic_vehicle/images/val/Navid_167.jpg
+../datasets/traffic_vehicle/images/val/Navid_222.jpg
+../datasets/traffic_vehicle/images/val/Navid_292.jpg
+../datasets/traffic_vehicle/images/val/Dipto_819.jpg
+../datasets/traffic_vehicle/images/val/Navid_540.jpg
+../datasets/traffic_vehicle/images/val/Numan_(214).jpg
+../datasets/traffic_vehicle/images/val/Navid_536.jpg
+../datasets/traffic_vehicle/images/val/130.jpg
+../datasets/traffic_vehicle/images/val/Navid_47.jpg
+../datasets/traffic_vehicle/images/val/Numan_(451).jpg
+../datasets/traffic_vehicle/images/val/Dipto_599.jpg
+../datasets/traffic_vehicle/images/val/Pias (519).jpg
+../datasets/traffic_vehicle/images/val/Dipto_382.jpg
+../datasets/traffic_vehicle/images/val/Navid_124.jpg
+../datasets/traffic_vehicle/images/val/Dipto_727.jpg
+../datasets/traffic_vehicle/images/val/Numan_(196).jpg
+../datasets/traffic_vehicle/images/val/Numan_(446).jpg
+../datasets/traffic_vehicle/images/val/Navid_776.jpg
+../datasets/traffic_vehicle/images/val/Navid_419.jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 85.jpg
+../datasets/traffic_vehicle/images/val/Navid_658.JPG
+../datasets/traffic_vehicle/images/val/Numan_(108).jpg
+../datasets/traffic_vehicle/images/val/Dipto_492.jpg
+../datasets/traffic_vehicle/images/val/Numan_(393).jpg
+../datasets/traffic_vehicle/images/val/Dipto_  208.jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 159.jpg
+../datasets/traffic_vehicle/images/val/Numan_(375).jpg
+../datasets/traffic_vehicle/images/val/Numan_(498).jpg
+../datasets/traffic_vehicle/images/val/Navid_414.jpg
+../datasets/traffic_vehicle/images/val/145.jpg
+../datasets/traffic_vehicle/images/val/Numan_(475).jpg
+../datasets/traffic_vehicle/images/val/Navid_510.jpg
+../datasets/traffic_vehicle/images/val/Numan_(235).jpg
+../datasets/traffic_vehicle/images/val/76.jpg
+../datasets/traffic_vehicle/images/val/Navid_557.jpg
+../datasets/traffic_vehicle/images/val/Numan_(252).jpg
+../datasets/traffic_vehicle/images/val/Dipto_624.jpg
+../datasets/traffic_vehicle/images/val/Numan_(355).jpg
+../datasets/traffic_vehicle/images/val/Dipto_574.jpg
+../datasets/traffic_vehicle/images/val/Pias (367).jpg
+../datasets/traffic_vehicle/images/val/Dipto_573.jpg
+../datasets/traffic_vehicle/images/val/Pias (212).jpg
+../datasets/traffic_vehicle/images/val/Pias (318).jpg
+../datasets/traffic_vehicle/images/val/Dipto_488.jpg
+../datasets/traffic_vehicle/images/val/Numan_(191).jpg
+../datasets/traffic_vehicle/images/val/Navid_728.jpg
+../datasets/traffic_vehicle/images/val/Pias (110).jpg
+../datasets/traffic_vehicle/images/val/205.png
+../datasets/traffic_vehicle/images/val/Pias (383).jpg
+../datasets/traffic_vehicle/images/val/Navid_643.JPG
+../datasets/traffic_vehicle/images/val/Navid_06.jpg
+../datasets/traffic_vehicle/images/val/Numan_(493).jpg
+../datasets/traffic_vehicle/images/val/Numan_  (9).jpg
+../datasets/traffic_vehicle/images/val/68.jpg
+../datasets/traffic_vehicle/images/val/Dipto_21.jpg
+../datasets/traffic_vehicle/images/val/Numan_(209).jpg
+../datasets/traffic_vehicle/images/val/Dipto_373.jpg
+../datasets/traffic_vehicle/images/val/Navid_688.jpg
+../datasets/traffic_vehicle/images/val/Numan_  (20).jpg
+../datasets/traffic_vehicle/images/val/Navid_233.jpg
+../datasets/traffic_vehicle/images/val/Dipto_682.jpg
+../datasets/traffic_vehicle/images/val/Navid_663.jpg
+../datasets/traffic_vehicle/images/val/Navid_220.jpg
+../datasets/traffic_vehicle/images/val/112.jpg
+../datasets/traffic_vehicle/images/val/147.jpg
+../datasets/traffic_vehicle/images/val/Navid_119.jpg
+../datasets/traffic_vehicle/images/val/Pias (308).jpg
+../datasets/traffic_vehicle/images/val/Dipto_611.jpg
+../datasets/traffic_vehicle/images/val/126.jpg
+../datasets/traffic_vehicle/images/val/Navid_107.jpg
+../datasets/traffic_vehicle/images/val/Dipto_429.jpg
+../datasets/traffic_vehicle/images/val/Pias (328).jpg
+../datasets/traffic_vehicle/images/val/Pias (499).jpg
+../datasets/traffic_vehicle/images/val/Dipto_  202.jpg
+../datasets/traffic_vehicle/images/val/Numan_(172).jpg
+../datasets/traffic_vehicle/images/val/Dipto_561.jpg
+../datasets/traffic_vehicle/images/val/Dipto_29.jpg
+../datasets/traffic_vehicle/images/val/Navid_335.jpg
+../datasets/traffic_vehicle/images/val/Asraf_41.jpg
+../datasets/traffic_vehicle/images/val/Dipto_826.jpg
+../datasets/traffic_vehicle/images/val/Navid_725.jpg
+../datasets/traffic_vehicle/images/val/157.jpg
+../datasets/traffic_vehicle/images/val/Numan_  (3).jpg
+../datasets/traffic_vehicle/images/val/Navid_435.jpg
+../datasets/traffic_vehicle/images/val/Dipto_37.jpg
+../datasets/traffic_vehicle/images/val/Navid_193.jpg
+../datasets/traffic_vehicle/images/val/Navid_50.jpg
+../datasets/traffic_vehicle/images/val/Pias (485).jpg
+../datasets/traffic_vehicle/images/val/220.jpg
+../datasets/traffic_vehicle/images/val/Dipto_836.jpg
+../datasets/traffic_vehicle/images/val/Pias (333).jpg
+../datasets/traffic_vehicle/images/val/Asraf_63.jpg
+../datasets/traffic_vehicle/images/val/Numan_(136).jpg
+../datasets/traffic_vehicle/images/val/Numan_(293).JPG
+../datasets/traffic_vehicle/images/val/Dipto_812.jpg
+../datasets/traffic_vehicle/images/val/Navid_784.jpg
+../datasets/traffic_vehicle/images/val/Navid_670.jpg
+../datasets/traffic_vehicle/images/val/Navid_483.jpg
+../datasets/traffic_vehicle/images/val/Numan_(258).jpg
+../datasets/traffic_vehicle/images/val/Numan_(123).jpg
+../datasets/traffic_vehicle/images/val/Navid_593.JPG
+../datasets/traffic_vehicle/images/val/Navid_72.jpg
+../datasets/traffic_vehicle/images/val/Navid_192.jpg
+../datasets/traffic_vehicle/images/val/Navid_186.jpg
+../datasets/traffic_vehicle/images/val/Navid_399.jpg
+../datasets/traffic_vehicle/images/val/Navid_370.jpg
+../datasets/traffic_vehicle/images/val/Navid_26.jpg
+../datasets/traffic_vehicle/images/val/133.jpg
+../datasets/traffic_vehicle/images/val/Navid_782.jpg
+../datasets/traffic_vehicle/images/val/Pias (524).jpg
+../datasets/traffic_vehicle/images/val/187.jpg
+../datasets/traffic_vehicle/images/val/Numan_(36).jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 86.jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 327.jpg
+../datasets/traffic_vehicle/images/val/Navid_620.JPG
+../datasets/traffic_vehicle/images/val/Dipto_760.jpg
+../datasets/traffic_vehicle/images/val/33.jpg
+../datasets/traffic_vehicle/images/val/Navid_591.JPG
+../datasets/traffic_vehicle/images/val/Dipto_515.jpg
+../datasets/traffic_vehicle/images/val/Pias (451).jpg
+../datasets/traffic_vehicle/images/val/219.jpg
+../datasets/traffic_vehicle/images/val/Pias (208).jpg
+../datasets/traffic_vehicle/images/val/Numan_(88).jpg
+../datasets/traffic_vehicle/images/val/Asraf_27.jpg
+../datasets/traffic_vehicle/images/val/Navid_207.jpg
+../datasets/traffic_vehicle/images/val/Navid_281.jpg
+../datasets/traffic_vehicle/images/val/Dipto_765.jpg
+../datasets/traffic_vehicle/images/val/Pias (131).jpg
+../datasets/traffic_vehicle/images/val/180.jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 46.jpg
+../datasets/traffic_vehicle/images/val/Numan_(160).jpg
+../datasets/traffic_vehicle/images/val/Numan_(389).jpg
+../datasets/traffic_vehicle/images/val/Dipto_354.jpg
+../datasets/traffic_vehicle/images/val/Navid_122.jpg
+../datasets/traffic_vehicle/images/val/Numan_(143).jpg
+../datasets/traffic_vehicle/images/val/Navid_400.jpg
+../datasets/traffic_vehicle/images/val/Dipto_798.jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 42.jpg
+../datasets/traffic_vehicle/images/val/Dipto_827.jpg
+../datasets/traffic_vehicle/images/val/Navid_460.jpg
+../datasets/traffic_vehicle/images/val/Pias (343).jpg
+../datasets/traffic_vehicle/images/val/Navid_504.jpg
+../datasets/traffic_vehicle/images/val/Pias (317).jpg
+../datasets/traffic_vehicle/images/val/Navid_622.JPG
+../datasets/traffic_vehicle/images/val/Navid_585.JPG
+../datasets/traffic_vehicle/images/val/Navid_153.jpg
+../datasets/traffic_vehicle/images/val/Navid_518.jpg
+../datasets/traffic_vehicle/images/val/129.jpg
+../datasets/traffic_vehicle/images/val/Pias (22).jpg
+../datasets/traffic_vehicle/images/val/Navid_542.jpg
+../datasets/traffic_vehicle/images/val/Navid_408.jpg
+../datasets/traffic_vehicle/images/val/Numan_(83).jpg
+../datasets/traffic_vehicle/images/val/Dipto_437.jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 317.jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 316.jpg
+../datasets/traffic_vehicle/images/val/Navid_32.jpg
+../datasets/traffic_vehicle/images/val/Numan_(75).jpg
+../datasets/traffic_vehicle/images/val/177.jpg
+../datasets/traffic_vehicle/images/val/74.jpg
+../datasets/traffic_vehicle/images/val/Numan_(171).jpg
+../datasets/traffic_vehicle/images/val/Navid_478.jpg
+../datasets/traffic_vehicle/images/val/Numan_(232).jpg
+../datasets/traffic_vehicle/images/val/Numan_(312).JPG
+../datasets/traffic_vehicle/images/val/Numan_(233).jpg
+../datasets/traffic_vehicle/images/val/195.png
+../datasets/traffic_vehicle/images/val/Navid_86.jpg
+../datasets/traffic_vehicle/images/val/Asraf_17.jpg
+../datasets/traffic_vehicle/images/val/52.jpg
+../datasets/traffic_vehicle/images/val/Dipto_485.jpg
+../datasets/traffic_vehicle/images/val/Pias (9).jpg
+../datasets/traffic_vehicle/images/val/Pias (529).jpg
+../datasets/traffic_vehicle/images/val/Navid_769.jpg
+../datasets/traffic_vehicle/images/val/Navid_13.jpg
+../datasets/traffic_vehicle/images/val/Dipto_508.jpg
+../datasets/traffic_vehicle/images/val/Dipto_420.jpg
+../datasets/traffic_vehicle/images/val/Asraf_09.jpg
+../datasets/traffic_vehicle/images/val/Navid_321.jpg
+../datasets/traffic_vehicle/images/val/Navid_522.jpg
+../datasets/traffic_vehicle/images/val/Navid_141.jpg
+../datasets/traffic_vehicle/images/val/Numan_(213).jpg
+../datasets/traffic_vehicle/images/val/Dipto_582.jpg
+../datasets/traffic_vehicle/images/val/09.jpg
+../datasets/traffic_vehicle/images/val/Navid_266.jpg
+../datasets/traffic_vehicle/images/val/154.jpg
+../datasets/traffic_vehicle/images/val/Pias (82).jpg
+../datasets/traffic_vehicle/images/val/Dipto_446.jpg
+../datasets/traffic_vehicle/images/val/Numan_(362).jpg
+../datasets/traffic_vehicle/images/val/Navid_90.jpg
+../datasets/traffic_vehicle/images/val/Pias (358).jpg
+../datasets/traffic_vehicle/images/val/Numan_(68).jpg
+../datasets/traffic_vehicle/images/val/Asraf_32.jpg
+../datasets/traffic_vehicle/images/val/Dipto_651.jpg
+../datasets/traffic_vehicle/images/val/Navid_171.jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 68.jpg
+../datasets/traffic_vehicle/images/val/Navid_642.JPG
+../datasets/traffic_vehicle/images/val/Navid_672.jpg
+../datasets/traffic_vehicle/images/val/Pias (422).jpg
+../datasets/traffic_vehicle/images/val/Pias (291).jpg
+../datasets/traffic_vehicle/images/val/Pias (155).jpg
+../datasets/traffic_vehicle/images/val/Pias (469).jpg
+../datasets/traffic_vehicle/images/val/166.jpg
+../datasets/traffic_vehicle/images/val/40.jpg
+../datasets/traffic_vehicle/images/val/Asraf_36.jpg
+../datasets/traffic_vehicle/images/val/Pias (77).jpg
+../datasets/traffic_vehicle/images/val/Dipto_17.jpg
+../datasets/traffic_vehicle/images/val/Numan_(248).jpg
+../datasets/traffic_vehicle/images/val/Dipto_524.jpg
+../datasets/traffic_vehicle/images/val/Dipto_390.jpg
+../datasets/traffic_vehicle/images/val/Pias (388).jpg
+../datasets/traffic_vehicle/images/val/Navid_11.jpg
+../datasets/traffic_vehicle/images/val/Pias (332).jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 200.jpg
+../datasets/traffic_vehicle/images/val/Dipto_841.jpg
+../datasets/traffic_vehicle/images/val/Navid_561.jpg
+../datasets/traffic_vehicle/images/val/Dipto_500.jpg
+../datasets/traffic_vehicle/images/val/Navid_599.JPG
+../datasets/traffic_vehicle/images/val/Numan_(415).jpg
+../datasets/traffic_vehicle/images/val/Pias (188).jpg
+../datasets/traffic_vehicle/images/val/Numan_(296).JPG
+../datasets/traffic_vehicle/images/val/135.jpg
+../datasets/traffic_vehicle/images/val/Asraf_11.jpg
+../datasets/traffic_vehicle/images/val/Numan_(44).jpg
+../datasets/traffic_vehicle/images/val/Pias (345).jpg
+../datasets/traffic_vehicle/images/val/Pias (170).jpg
+../datasets/traffic_vehicle/images/val/Pias (32).jpg
+../datasets/traffic_vehicle/images/val/Navid_594.JPG
+../datasets/traffic_vehicle/images/val/Pias (282).jpg
+../datasets/traffic_vehicle/images/val/Dipto_850.jpg
+../datasets/traffic_vehicle/images/val/Numan_(182).jpg
+../datasets/traffic_vehicle/images/val/Dipto_788.jpg
+../datasets/traffic_vehicle/images/val/Dipto_548.jpg
+../datasets/traffic_vehicle/images/val/Navid_174.jpg
+../datasets/traffic_vehicle/images/val/Dipto_583.jpg
+../datasets/traffic_vehicle/images/val/Pias (35).jpg
+../datasets/traffic_vehicle/images/val/Dipto_565.jpg
+../datasets/traffic_vehicle/images/val/Navid_396.jpg
+../datasets/traffic_vehicle/images/val/Numan_(247).jpg
+../datasets/traffic_vehicle/images/val/Dipto_678.jpg
+../datasets/traffic_vehicle/images/val/Numan_(449).jpg
+../datasets/traffic_vehicle/images/val/Navid_742.jpg
+../datasets/traffic_vehicle/images/val/Dipto_355.jpg
+../datasets/traffic_vehicle/images/val/Dipto_721.jpg
+../datasets/traffic_vehicle/images/val/Dipto_729.jpg
+../datasets/traffic_vehicle/images/val/Navid_689.jpg
+../datasets/traffic_vehicle/images/val/Dipto_803.jpg
+../datasets/traffic_vehicle/images/val/Navid_120.jpg
+../datasets/traffic_vehicle/images/val/Navid_606.JPG
+../datasets/traffic_vehicle/images/val/Navid_311.jpg
+../datasets/traffic_vehicle/images/val/Navid_805.jpg
+../datasets/traffic_vehicle/images/val/Navid_792.jpg
+../datasets/traffic_vehicle/images/val/Dipto_349.JPG
+../datasets/traffic_vehicle/images/val/Navid_113.jpg
+../datasets/traffic_vehicle/images/val/Numan_(218).jpg
+../datasets/traffic_vehicle/images/val/Navid_377.jpg
+../datasets/traffic_vehicle/images/val/Navid_241.jpg
+../datasets/traffic_vehicle/images/val/183.jpg
+../datasets/traffic_vehicle/images/val/124.jpg
+../datasets/traffic_vehicle/images/val/Numan_(414).jpg
+../datasets/traffic_vehicle/images/val/Dipto_794.jpg
+../datasets/traffic_vehicle/images/val/Numan_  (19).jpg
+../datasets/traffic_vehicle/images/val/43.jpg
+../datasets/traffic_vehicle/images/val/Pias (348).jpg
+../datasets/traffic_vehicle/images/val/Navid_191.jpg
+../datasets/traffic_vehicle/images/val/Dipto_473.jpg
+../datasets/traffic_vehicle/images/val/Navid_73.jpg
+../datasets/traffic_vehicle/images/val/Numan_(279).jpg
+../datasets/traffic_vehicle/images/val/Pias (97).jpg
+../datasets/traffic_vehicle/images/val/Numan_(264).jpg
+../datasets/traffic_vehicle/images/val/Dipto_672.jpg
+../datasets/traffic_vehicle/images/val/Navid_49.jpg
+../datasets/traffic_vehicle/images/val/Dipto_409.jpg
+../datasets/traffic_vehicle/images/val/Dipto_522.jpg
+../datasets/traffic_vehicle/images/val/Dipto_26.jpg
+../datasets/traffic_vehicle/images/val/Dipto_350.JPG
+../datasets/traffic_vehicle/images/val/Asraf_06.jpg
+../datasets/traffic_vehicle/images/val/34.jpg
+../datasets/traffic_vehicle/images/val/161.jpg
+../datasets/traffic_vehicle/images/val/Pias (387).jpg
+../datasets/traffic_vehicle/images/val/Dipto_601.jpg
+../datasets/traffic_vehicle/images/val/Navid_695.jpg
+../datasets/traffic_vehicle/images/val/178.jpg
+../datasets/traffic_vehicle/images/val/Dipto_718.jpg
+../datasets/traffic_vehicle/images/val/Navid_552.jpg
+../datasets/traffic_vehicle/images/val/Dipto_855.jpg
+../datasets/traffic_vehicle/images/val/Navid_467.jpg
+../datasets/traffic_vehicle/images/val/Numan_(275).jpg
+../datasets/traffic_vehicle/images/val/Navid_724.jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 248.jpg
+../datasets/traffic_vehicle/images/val/Dipto_715.jpg
+../datasets/traffic_vehicle/images/val/Navid_752.jpg
+../datasets/traffic_vehicle/images/val/Dipto_425.jpg
+../datasets/traffic_vehicle/images/val/Navid_65.jpg
+../datasets/traffic_vehicle/images/val/Navid_157.jpg
+../datasets/traffic_vehicle/images/val/Dipto_592.jpg
+../datasets/traffic_vehicle/images/val/Pias (56).jpg
+../datasets/traffic_vehicle/images/val/Navid_142.jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 266.jpg
+../datasets/traffic_vehicle/images/val/Navid_188.jpg
+../datasets/traffic_vehicle/images/val/Numan_(316).jpg
+../datasets/traffic_vehicle/images/val/12.jpg
+../datasets/traffic_vehicle/images/val/Numan_(314).jpg
+../datasets/traffic_vehicle/images/val/Pias (505).jpg
+../datasets/traffic_vehicle/images/val/Numan_(495).jpg
+../datasets/traffic_vehicle/images/val/Dipto_648.jpg
+../datasets/traffic_vehicle/images/val/218.jpg
+../datasets/traffic_vehicle/images/val/Dipto_456.jpg
+../datasets/traffic_vehicle/images/val/Numan_(121).jpg
+../datasets/traffic_vehicle/images/val/Dipto_697.jpg
+../datasets/traffic_vehicle/images/val/Pias (68).jpg
+../datasets/traffic_vehicle/images/val/Navid_785.jpg
+../datasets/traffic_vehicle/images/val/Pias (246).jpg
+../datasets/traffic_vehicle/images/val/Numan_(388).jpg
+../datasets/traffic_vehicle/images/val/Numan_(104).jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 75.jpg
+../datasets/traffic_vehicle/images/val/Dipto_525.JPG
+../datasets/traffic_vehicle/images/val/Navid_535.jpg
+../datasets/traffic_vehicle/images/val/Navid_733.jpg
+../datasets/traffic_vehicle/images/val/Navid_783.jpg
+../datasets/traffic_vehicle/images/val/Navid_62.jpg
+../datasets/traffic_vehicle/images/val/Navid_651.JPG
+../datasets/traffic_vehicle/images/val/149.jpg
+../datasets/traffic_vehicle/images/val/Navid_114.jpg
+../datasets/traffic_vehicle/images/val/Navid_511.jpg
+../datasets/traffic_vehicle/images/val/Navid_781.jpg
+../datasets/traffic_vehicle/images/val/Pias (446).jpg
+../datasets/traffic_vehicle/images/val/Numan_(368).jpg
+../datasets/traffic_vehicle/images/val/Dipto_475.jpg
+../datasets/traffic_vehicle/images/val/Pias (300).jpg
+../datasets/traffic_vehicle/images/val/Numan_(385).jpg
+../datasets/traffic_vehicle/images/val/Pias (72).jpg
+../datasets/traffic_vehicle/images/val/103.jpg
+../datasets/traffic_vehicle/images/val/Dipto_23.jpg
+../datasets/traffic_vehicle/images/val/Dipto_364.jpg
+../datasets/traffic_vehicle/images/val/Navid_720.jpg
+../datasets/traffic_vehicle/images/val/Navid_462.jpg
+../datasets/traffic_vehicle/images/val/Navid_778.jpg
+../datasets/traffic_vehicle/images/val/Dipto_412.jpg
+../datasets/traffic_vehicle/images/val/Numan_(250).jpg
+../datasets/traffic_vehicle/images/val/Dipto_  206.jpg
+../datasets/traffic_vehicle/images/val/207.jpg
+../datasets/traffic_vehicle/images/val/Numan_(482).jpg
+../datasets/traffic_vehicle/images/val/Navid_52.jpg
+../datasets/traffic_vehicle/images/val/Numan_(485).jpg
+../datasets/traffic_vehicle/images/val/Asraf_35.jpg
+../datasets/traffic_vehicle/images/val/Numan_(459).jpg
+../datasets/traffic_vehicle/images/val/Navid_357.jpg
+../datasets/traffic_vehicle/images/val/18.jpg
+../datasets/traffic_vehicle/images/val/Pias (398).jpg
+../datasets/traffic_vehicle/images/val/Numan_(107).jpg
+../datasets/traffic_vehicle/images/val/Navid_445.jpg
+../datasets/traffic_vehicle/images/val/Dipto_403.jpg
+../datasets/traffic_vehicle/images/val/Navid_189.jpg
+../datasets/traffic_vehicle/images/val/Navid_201.jpg
+../datasets/traffic_vehicle/images/val/Navid_254.jpg
+../datasets/traffic_vehicle/images/val/Navid_722.jpg
+../datasets/traffic_vehicle/images/val/Navid_127.jpg
+../datasets/traffic_vehicle/images/val/Dipto_371.jpg
+../datasets/traffic_vehicle/images/val/Dipto_170.jpg
+../datasets/traffic_vehicle/images/val/Numan_(408).jpg
+../datasets/traffic_vehicle/images/val/Navid_42.jpg
+../datasets/traffic_vehicle/images/val/Numan_(169).jpg
+../datasets/traffic_vehicle/images/val/Navid_703.jpg
+../datasets/traffic_vehicle/images/val/Navid_762.jpg
+../datasets/traffic_vehicle/images/val/Numan_(224).jpg
+../datasets/traffic_vehicle/images/val/Numan_(430).jpg
+../datasets/traffic_vehicle/images/val/Navid_95.jpg
+../datasets/traffic_vehicle/images/val/Pias (248).jpg
+../datasets/traffic_vehicle/images/val/Numan_(193).jpg
+../datasets/traffic_vehicle/images/val/100.jpg
+../datasets/traffic_vehicle/images/val/Dipto_34.jpg
+../datasets/traffic_vehicle/images/val/Numan_(478).jpg
+../datasets/traffic_vehicle/images/val/Dipto_498.jpg
+../datasets/traffic_vehicle/images/val/Navid_286.jpg
+../datasets/traffic_vehicle/images/val/Pias (30).jpg
+../datasets/traffic_vehicle/images/val/Pias (261).jpg
+../datasets/traffic_vehicle/images/val/Dipto_763.jpg
+../datasets/traffic_vehicle/images/val/Numan_(391).jpg
+../datasets/traffic_vehicle/images/val/Navid_30.jpg
+../datasets/traffic_vehicle/images/val/Dipto_661.jpg
+../datasets/traffic_vehicle/images/val/Dipto_  215.jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 243.jpg
+../datasets/traffic_vehicle/images/val/Pias (39).jpg
+../datasets/traffic_vehicle/images/val/Navid_405.jpg
+../datasets/traffic_vehicle/images/val/Pias (91).jpg
+../datasets/traffic_vehicle/images/val/Pias (222).jpg
+../datasets/traffic_vehicle/images/val/Navid_152.jpg
+../datasets/traffic_vehicle/images/val/Navid_676.jpg
+../datasets/traffic_vehicle/images/val/Numan_(240).jpg
+../datasets/traffic_vehicle/images/val/Navid_262.jpg
+../datasets/traffic_vehicle/images/val/Dipto_491.jpg
+../datasets/traffic_vehicle/images/val/Dipto_451.jpg
+../datasets/traffic_vehicle/images/val/Navid_210.jpg
+../datasets/traffic_vehicle/images/val/Dipto_775.jpg
+../datasets/traffic_vehicle/images/val/Navid_490.jpg
+../datasets/traffic_vehicle/images/val/Numan_(56).jpg
+../datasets/traffic_vehicle/images/val/Dipto_693.jpg
+../datasets/traffic_vehicle/images/val/Navid_306.jpg
+../datasets/traffic_vehicle/images/val/Navid_480.jpg
+../datasets/traffic_vehicle/images/val/Numan_(465).jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 315.jpg
+../datasets/traffic_vehicle/images/val/Navid_439.jpg
+../datasets/traffic_vehicle/images/val/Navid_708.jpg
+../datasets/traffic_vehicle/images/val/Dipto_410.jpg
+../datasets/traffic_vehicle/images/val/Navid_202.jpg
+../datasets/traffic_vehicle/images/val/Dipto_346.JPG
+../datasets/traffic_vehicle/images/val/Navid_680.jpg
+../datasets/traffic_vehicle/images/val/Numan_(112).jpg
+../datasets/traffic_vehicle/images/val/Numan_(448).jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 247.jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 252.jpg
+../datasets/traffic_vehicle/images/val/Navid_184.jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 161.jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 135.jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 334.jpg
+../datasets/traffic_vehicle/images/val/Numan_(43).jpg
+../datasets/traffic_vehicle/images/val/Dipto_ 296.jpg
+../datasets/traffic_vehicle/images/val/Dipto_647.jpg
+../datasets/traffic_vehicle/images/val/Numan_(283).jpg
+../datasets/traffic_vehicle/images/val/Numan_(119).jpg
+../datasets/traffic_vehicle/images/val/Numan_(323).jpg
+../datasets/traffic_vehicle/images/val/Navid_465.jpg
+../datasets/traffic_vehicle/images/val/Numan_(501).jpg
+../datasets/traffic_vehicle/images/val/Asraf_24.jpg
+../datasets/traffic_vehicle/images/val/Numan_(387).jpg
+../datasets/traffic_vehicle/images/val/Pias (197).jpg
+../datasets/traffic_vehicle/images/val/Dipto_398.jpg
+../datasets/traffic_vehicle/images/val/Dipto_449.jpg
+../datasets/traffic_vehicle/images/val/Dipto_453.jpg
+../datasets/traffic_vehicle/images/val/Numan_(153).jpg
+../datasets/traffic_vehicle/images/val/60.jpg
+../datasets/traffic_vehicle/images/val/Dipto_701.jpg

@@ -247,15 +247,8 @@ python3 export.py --weights yolo_traffic_vehicle/epochs120_1/weights/best.pt --i
 
 #### 3.2.1 修改decode处代码
 
-在`models/yolo.py`文件中54行，我们需要修改**class Detect**的forward方法，删除其**decode**运算，直接输出网络结果。在后面的**TensorRT**部署中，我们将利用**decode plugin**来进行**decode**操作，并用**GPU**加速。修改内容如下：
+在`models/yolo.py`文件中95行，我们需要修改**class Detect**的forward方法，删除其**decode**运算，直接输出网络结果。在后面的**TensorRT**部署中，我们将利用**decode plugin**来进行**decode**操作，并用**GPU**加速。修改内容如下：
 
-修改**forward**函数，删除**yolo.py**文件93~115行后，添加：
-
-```python
-	y = x[i].sigmoid()
-	z.append(y)
-return z
-```
 
 修改后的**forward**函数为：
 
@@ -267,12 +260,6 @@ def forward(self, x):
         y = x[i].sigmoid()
         z.append(y)
 	return z
-```
-
-修改**_make_grid**函数，删除**yolo.py**文件120行，修改为：
-
-```pyth
-t = torch.int32
 ```
 
 修改后的**_make_grid**函数为：
@@ -292,13 +279,11 @@ def _make_grid(self, nx=20, ny=20, i=0, torch_1_10=check_version(torch.__version
 
 #### 3.2.2 修改export.py导出函数代码
 
-注释第818行和820行：
+注释以下两行代码（更改源文件位置可能变化，所以不指出具体行数）：
 
 ```python
-# 818行
 # shape = tuple((y[0] if isinstance(y, tuple) else y).shape)  # model output shape
 
-# 820行
 # LOGGER.info(f"\n{colorstr('PyTorch:')} starting from {file} with output shape {shape} ({file_size(file):.1f} MB)")
 ```
 
@@ -409,7 +394,12 @@ def export_onnx(model, im, file, opset, dynamic, simplify, prefix=colorstr("ONNX
     LOGGER.info(f'{prefix} export success, saved as {f} ({file_size(f):.1f} MB)')
     return f
 ```
+
+
+
+
 导出修改后的ONNX：
+
 ```shell
 python3 export.py --data data/traffic_vehicle.yaml --weights weights/traffic_vehicle.pt --include onnx --simplify
 ```
@@ -426,8 +416,6 @@ python3 export.py --data data/traffic_vehicle.yaml --weights weights/traffic_veh
 - DecodeDetectionClasses：检测框类别
 
 ## 4、TensorRT模型构建
-
-
 
 ### 4.1 配置文件
 

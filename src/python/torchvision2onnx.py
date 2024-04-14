@@ -63,7 +63,7 @@ def main(args):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("-t", "--type", type=str, default="resnet50")
+    parser.add_argument("-t", "--type", type=str, default="vgg11")
     parser.add_argument("-d", "--dir", type=str, default="./models/onnx/")
     
     opt = parser.parse_args()

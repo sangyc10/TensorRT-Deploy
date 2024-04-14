@@ -490,10 +490,10 @@ FP32和FP16可直接进行推理，当使用INT8量化推理时，需要执行�
 
 导出分类模型ONNX代码在**./src/python/torchvision2onnx.py**，这里提供的模型包括**resnet50**、**resnet101**、**resnet152**、**vgg11**、**vgg19**、**mobilenet_v3_small**、**efficientnet_b0**、**efficientnet_v2_s**，如需其他模型，可自行扩展。
 
-以**mobilenet_v3_small**模型为例，执行（注意路径）：
+以**vgg11**模型为例，执行（注意路径）：
 
 ```python
-python3 ./src/python/torchvision2onnx.py --type mobilenet_v3_small --dir ./models/onnx/
+python3 ./src/python/torchvision2onnx.py --type vgg11 --dir ./models/onnx/
 ```
 
 导出onnx模型保存在**./model/onnx/**文件夹中。
@@ -503,7 +503,7 @@ python3 ./src/python/torchvision2onnx.py --type mobilenet_v3_small --dir ./model
 在config文件夹下，config.yaml配置文件：
 
 ```yaml
-onnxPath: ./models/onnx/mobilenet_v3_small.onnx
+onnxPath: ./models/onnx/vgg11.onnx
 
 logging:
   level: 4          # FATAL:0  ERROR:1   WARN:2  INFO:3  VERB:4  DEBUG:5
@@ -522,11 +522,11 @@ model_params:
   calibration_batchsize: 64
 
 images_path:
-  # - ./data/source/cat.png
-  # - ./data/source/fox.png
-  # - ./data/source/eagle.png
-  # - ./data/source/tiny-cat.png
-  # - ./data/source/wolf.png
+  - ./data/source/cat.png
+  - ./data/source/fox.png
+  - ./data/source/eagle.png
+  - ./data/source/tiny-cat.png
+  - ./data/source/wolf.png
 ```
 
 根据配置文件进行参数设置，避免频繁更改源文件，重复编译。

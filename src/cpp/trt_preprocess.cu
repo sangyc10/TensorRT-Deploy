@@ -354,6 +354,8 @@ __global__ void warpaffine_BGR2RGB_kernel(
     int x = blockIdx.x * blockDim.x + threadIdx.x;
     int y = blockIdx.y * blockDim.y + threadIdx.y;
 
+    if (x >= 640 || y >= 640) return;                  //->防止越界
+    
     affine_transformation(affine_matrix.reverse, x + 0.5, y + 0.5, &src_x, &src_y);
 
     int src_x1 = floor(src_x - 0.5);
